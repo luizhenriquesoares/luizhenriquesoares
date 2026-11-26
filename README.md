@@ -2,10 +2,6 @@
 <h3 align="center">Senior Software Engineer · AI Engineer (Agents, RAG & MCP) · TypeScript / Node.js</h3>
 
 <p align="center">
-  📍 Madrid, Spain · Open to senior full-stack / AI engineering roles in Spain and remote across Europe
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/luiz-soares-0748b7b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:luizhsoaresdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
