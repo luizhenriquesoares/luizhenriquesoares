@@ -29,10 +29,10 @@ Background in **regulated fintech and investments** (Santander's Pi Investimento
 
 ### 🛠️ Stack
 
-**Agents & LLMs:** OpenAI Responses API · Anthropic Messages API · tool/function calling · RAG (pgvector, MongoDB Atlas Vector Search) · MCP · LangChain · Claude Code (subagents, skills, headless)
-**Backend:** Node.js · TypeScript · NestJS · GraphQL · REST · microservices · CQRS · DDD · event-driven (SQS/SNS, RabbitMQ, Kafka)
-**Frontend & mobile:** React · Next.js · React Native / Expo
-**Cloud & data:** AWS (Lambda, SQS/SNS, S3, DynamoDB, Cognito) · Azure · Docker · Kubernetes · PostgreSQL · MongoDB · Redis · OpenTelemetry · GitHub Actions
+- **Agents & LLMs:** OpenAI Responses API · Anthropic Messages API · tool/function calling · RAG (pgvector, MongoDB Atlas Vector Search) · MCP · LangChain · Claude Code (subagents, skills, headless)
+- **Backend:** Node.js · TypeScript · NestJS · GraphQL · REST · microservices · CQRS · DDD · event-driven (SQS/SNS, RabbitMQ, Kafka)
+- **Frontend & mobile:** React · Next.js · React Native / Expo
+- **Cloud & data:** AWS (Lambda, SQS/SNS, S3, DynamoDB, Cognito) · Azure · Docker · Kubernetes · PostgreSQL · MongoDB · Redis · OpenTelemetry · GitHub Actions
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,aws,docker,kubernetes,postgres,mongodb,redis,graphql,githubactions" />
@@ -43,7 +43,6 @@ Background in **regulated fintech and investments** (Santander's Pi Investimento
 Most of my day-to-day work lives in private company repositories: **13,000+ contributions in the last year**.
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizhenriquesoares&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquesoares&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
